@@ -1,0 +1,1 @@
+# image-details-reader-using-gemini
